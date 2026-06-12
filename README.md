@@ -1,6 +1,6 @@
 # karan-portfolio
 
-Personal portfolio and landing page for **Karan Narula** — engineer & founder, co-founder/CTO of [Audible Sight](https://audiblesight.ai).
+Personal portfolio and landing page for **Karan Narula** — engineer & CTO of [Audible Sight](https://audiblesight.ai).
 
 A zero-dependency static site: plain HTML, CSS, and vanilla JavaScript. No build step, no framework, nothing to install.
 
