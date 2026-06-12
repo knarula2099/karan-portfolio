@@ -196,6 +196,8 @@
   .foot .mini{display:flex;gap:1.2rem}
   .foot .mini a{font-family:var(--mono);font-size:.72rem;color:var(--muted);text-decoration:none}
   .foot .mini a:hover{color:var(--green)}
+  .built-with a{color:var(--muted);text-decoration:underline;text-underline-offset:2px}
+  .built-with a:hover{color:var(--green)}
 
   @media (max-width:760px){
     .wrap{padding:0 1.75rem}
