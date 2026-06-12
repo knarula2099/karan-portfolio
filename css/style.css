@@ -198,6 +198,7 @@
   .foot .mini a:hover{color:var(--green)}
 
   @media (max-width:760px){
+    .wrap{padding:0 1.75rem}
     .bar{height:auto;padding:.7rem 0;flex-wrap:wrap}
     nav{order:3;width:100%;gap:1rem}
     .grid,.highlights,.values{grid-template-columns:1fr}
